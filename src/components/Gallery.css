@@ -1,0 +1,6 @@
+.gallery {
+  overflow-y: scroll;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
